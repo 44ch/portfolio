@@ -1,0 +1,7 @@
+.landing{
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
